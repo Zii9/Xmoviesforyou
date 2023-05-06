@@ -9,7 +9,8 @@ name: Build
    push: 
      branches: 
        # choose your default branch 
-       - main
+       - master 
+       - main 
      paths-ignore: 
        - '*.md' 
   
