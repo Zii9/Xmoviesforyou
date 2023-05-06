@@ -3,6 +3,6 @@
    "description": "xmoviesforyouplugin", 
    "manifestVersion": 1, 
    "pluginLists": [ 
-     "https://raw.githubusercontent.com/duongnv1996/bongngo-cs3-extension/builds/plugins.json" 
+     "https://raw.githubusercontent.com/zii9/Xmoviesforyou/builds/plugins.json" 
    ] 
  }
