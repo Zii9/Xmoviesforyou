@@ -10,7 +10,6 @@ name: Build
      branches: 
        # choose your default branch 
        - main
-       - main 
      paths-ignore: 
        - '*.md' 
   
