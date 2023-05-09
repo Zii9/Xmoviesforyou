@@ -3,7 +3,7 @@ package com.xmoviesforyou
  import com.lagradost.cloudstream3.* 
  import org.jsoup.Jsoup 
   
- class PhimmoiProvider : MainAPI() { // all providers must be an instance of MainAPI 
+ class PXmoviesforyourovider : MainAPI() { // all providers must be an instance of MainAPI 
      override var mainUrl = "https://xmoviesforyou.com/" 
      override var name = "xmoviesforyou" 
      override val supportedTypes = setOf(TvType.NSFW) 
